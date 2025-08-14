@@ -1,0 +1,7 @@
+ballon-dor-live-results/
+├── frontend/
+│   ├── src/
+│   └── ... (all other frontend files)
+└── backend/
+    ├── server.js
+    └── ... (all other backend files)
